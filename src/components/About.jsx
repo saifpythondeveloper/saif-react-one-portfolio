@@ -10,14 +10,14 @@ const About = () => {
                 </p>
             </div>
             <p className="text-xl mt-20">
-                I'm saifuddin completed my graduation as mechanical engineering. I'm looking for a web developer job. i choose this role bec i wanted to be updated in this growing world where techonolgy has became the head of every stream.
+                I'm saifuddin completed my graduation as Mechanical Engineer & I'm looking for a web developer job. I choose this role bec i wanna be updated in this growing world where techonolgy has became the head of every stream.
 
             </p>
 
             <br />
 
             <p className="text-xl">
-                i have gain knowledge different techonolgies by doing a six months certified internship from ascent software training institute,Bangalore. where i learn full stack development course with python language and frontend frameworks like javascript, reactjs, html, css and backend frameworks as django,postman and for database postgresSQL & kafka for messaging service.
+                I've gained knowledge in different techonolgies with the help of six months certified internship from ascent software training institute,Bangalore. Where i learnt full stack development course with python language and Frontend frameworks like javascript, reactjs, Tailwind CSS and Backend frameworks as Django,ORM, RESTFul API's, postman and for database postgresSQL & kafka for messaging service.
             </p>
         </div>
     </div>
