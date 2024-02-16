@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     LiinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://www.linkedin.com/in/saifuddinshaik23/',
             style: 'rounded-tr-md'
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com',
+            href: 'https://github.com/saifpythondeveloper',
             
         },
         {
@@ -42,7 +42,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/resume.pdf',
+            href: '/saifresumedoc.pdf',
             style: 'rounded-tr-md',
             download: true,
         },
