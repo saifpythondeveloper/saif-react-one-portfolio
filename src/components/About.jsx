@@ -17,7 +17,7 @@ const About = () => {
             <br />
 
             <p className="text-xl">
-                I've gained knowledge in different techonolgies with the help of six months certified internship from ascent software training institute,Bangalore. Where i learnt full stack development course with python language and Frontend frameworks like javascript, reactjs, Tailwind CSS and Backend frameworks as Django,ORM, RESTFul API's, postman and for database postgresSQL & kafka for messaging service.
+                I've gained knowledge in different techonolgies with the help of six months certified internship from ascent software training institute,Bangalore. Where i learnt full stack development course with python language and Frontend frameworks like JavaScript, ReactJS, Tailwind CSS and Backend frameworks as Django, ORM, RESTFul API's, postman and for database postgresSQL & kafka for messaging service.
             </p>
         </div>
     </div>

@@ -23,7 +23,7 @@ const Experience = () => {
             id: 2,
             src: css,
             title: 'CSS',
-            style: 'shadow-orange-500'
+            style: 'shadow-blue-300'
 
         },
         {
